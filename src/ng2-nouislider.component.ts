@@ -32,6 +32,7 @@ export class DefaultFormatter implements NouiFormatter {
   }
 }
 
+
 @Component({
   selector: 'nouislider',
   host: {
